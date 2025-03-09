@@ -117,3 +117,4 @@ watchdog==4.0.2
 yarl==1.9.4
 sentence-transformers
 flask
+gunicorn
